@@ -1,0 +1,14 @@
+app-text/texlive cjk xetex extra
+app-text/texlive-core extra cjk xetex
+
+# required by app-text/texlive-core-2016-r5::gentoo[xetex]
+# required by dev-texlive/texlive-genericrecommended-2016::gentoo
+# required by dev-texlive/texlive-pstricks-2016::gentoo
+# required by dev-texlive/texlive-mathscience-2016::gentoo
+# required by dev-texlive/texlive-xetex-2016::gentoo
+# required by dev-texlive/texlive-formatsextra-2016::gentoo
+# required by app-text/texlive-2016::gentoo[extra]
+# required by texlive (argument)
+>=media-libs/harfbuzz-1.7.2 icu
+
+
